@@ -13,3 +13,24 @@ body #container{
 #container h1{
     font-size: 20px;
 }
+#cabecera{
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: start;
+        background: rgba(255,190,77,1);
+        color: rgb(0, 0, 0);
+        font-weight: bold;
+        margin: 0;
+        padding-left: 25px;
+        border-radius: 81px 81px 81px 81px;
+        box-shadow: 12px 9px 29px 0px rgba(0,0,0,0.24);
+        font-size: 30px;
+
+
+}
+#cabecera span{
+    font-size: medium;
+    padding-left: 35px;
+    
+}
